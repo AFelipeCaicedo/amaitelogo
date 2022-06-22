@@ -7,12 +7,12 @@ body{
     text-align: center;
 }
 .logo1{
-    background-color: rgb(233, 248, 248);
+    background-color: rgb(255, 255, 255);
     height: 1200px;
 }
 .logo2{
     position:relative;
-    background-color: rgb(238, 237, 229);
+    background-color: rgb(255, 255, 255);
     height: 1200px;   
 }
 #uno{
