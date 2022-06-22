@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+.logo1{
+    background-color: rgb(233, 248, 248);
+    height: 1200px;
+}
+.logo2{
+    position:relative;
+    background-color: rgb(238, 237, 229);
+    height: 1200px;   
+}
+#uno{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    animation-delay: 3;
+    animation-duration: 2s;
+}
+#dos{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+   z-index: 2;
+   animation-delay: 3;
+    animation-duration: 3s;
+}
+#tres{
+    width:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+   z-index: 3;
+   animation-delay: 3;
+    animation-duration: 3s;
+}
+#cuatro{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+   z-index: 4;
+   animation-delay: 3;
+    animation-duration: 4s;
+}
